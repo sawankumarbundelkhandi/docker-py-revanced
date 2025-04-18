@@ -21,8 +21,8 @@
     "patchName": "Change package name",
     "options": [
       {
-        "key": "PackageNameReddit",
-        "value": "com.reddit.frontpage.rvx"
+        "key": "PackageNameSpotify",
+        "value": "com.spotify.music.revanced"
       }
     ]
   },
