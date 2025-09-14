@@ -11,7 +11,7 @@ A little python script that will help you in building [Revanced](https://revance
 
 ## Pre-Built APKs
 
-You can get pre-built apks [here](https://revanced_apkss.t.me/)
+You can get pre-built apks [here](https://@revanced_apks_1.t.me/)
 
 ## Facing issues? Click [here](https://github.com/nikhilbadyal/docker-py-revanced/issues/new/choose).<br>
 ## Build Yourself
@@ -226,6 +226,15 @@ You can use any of the following methods to build.
     - [stocard](https://www.apkmirror.com/apk/stocard-gmbh/stocard-rewards-cards-wallet/)
     - [willhaben](https://www.apkmirror.com/apk/willhaben/willhaben/)
     - [proton-mail](https://www.apkmirror.com/apk/proton-technologies-ag/protonmail-encrypted-email/)
+    - [prime-video](https://www.apkmirror.com/apk/amazon-mobile-llc/amazon-prime-video/)
+    - [cricbuzz](https://www.apkmirror.com/apk/cricbuzz-com/cricbuzz-live-cricket-scores-news/)
+    - [crunchyroll](https://www.apkmirror.com/apk/crunchyroll-llc-2/crunchyroll/)
+    - [threads](https://www.apkmirror.com/apk/instagram/threads-an-instagram-app/)
+    - [orf-on](https://www.apkmirror.com/apk/orf-osterreichischer-rundfunk/orf-tvthek-video-on-demand-android-tv/)
+    - [pandora](https://www.apkmirror.com/apk/pandora/pandora-music-podcasts/)
+    - [cieid](https://www.apkmirror.com/apk/istituto-poligrafico-e-zecca-dello-stato-s-p-a/cieid/)
+    - [infinity-for-reddit-patreon](https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit-patreon-github-version/)
+    - [infinity-for-reddit-plus](https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit-plus/)
 
     <br>`**` - You can also patch any other app which is **not** supported officially.To do so, you need to provide
    few more inputs to the tool which are mentioned below. These config will override the sources config from the tool.
@@ -250,10 +259,7 @@ You can use any of the following methods to build.
    5. APKMonk - Supports downloading any available version
        1. Link Format - https://www.apkmonk.com/app/<package-name>/
        2. Example Link - https://www.apkmonk.com/app/<package-name>/
-   6. Google Drive - Supports downloading from Google Drive lint
-       1. Link Format - https://drive.google.com/uc?<id>
-       2. Example Link - https://drive.google.com/uc?id=1ad44UTghbDty8o36Nrp3ZMyUzkPckIqY
-   7. APKEEP - Support downloading using [APKEEP](https://github.com/EFForg/apkeep)
+   6. APKEEP - Support downloading using [APKEEP](https://github.com/EFForg/apkeep)
       1. Link Format - apkeep
       2. Example Link - apkeep
       Note - You need to provide APKEEP_EMAIL and APKEEP_TOKEN in the **DOCKER_PY_REVANCED_SECRETS** Github Secrets.
